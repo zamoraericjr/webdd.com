@@ -31,7 +31,7 @@
 @media(max-width:992px){
     .msg{
        
-        font-size: 15px;
+        font-size: 20px;
         
     }
 }
@@ -75,7 +75,7 @@ main{
     background-attachment: fixed;
     background-size: contain;
     background-position:bottom;
-    margin: 20px;
+    padding: 20px;
 }
 .sec{
     background-size: cover;  
