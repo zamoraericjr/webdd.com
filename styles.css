@@ -73,7 +73,7 @@ main{
     background-image: url('./images/laptop4.png');
     background-repeat:no-repeat;
     background-attachment: fixed;
-    background-size:auto;
+    background-size: 600px;
     background-position:bottom left;
 
     padding: 20px;
