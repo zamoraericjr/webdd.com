@@ -74,7 +74,7 @@ main{
     background-image: url('./images/laptop4.png');
     background-repeat:no-repeat;
     background-attachment: fixed;
-    background-size: 600px;
+    background-size: 300px;
     background-position:bottom left;
 
     padding: 20px;
@@ -107,9 +107,11 @@ main{
 .title{
     
     font-style: italic;
+    text-shadow: 2px 2px 4px white;
 }
 
 .texts{
     font-size: 20px; 
     text-align: justify;
+    text-shadow: 2px 2px 4px white;
 }
