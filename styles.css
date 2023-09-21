@@ -70,11 +70,12 @@ main{
     padding: 3px;
 }
 .body1{
-    background-image: url('./images/laptop3.png');
+    background-image: url('./images/laptop4.png');
     background-repeat:no-repeat;
     background-attachment: fixed;
-    background-size: contain;
-    background-position:bottom;
+    background-size:auto;
+    background-position:bottom left;
+
     padding: 20px;
 }
 .sec{
