@@ -38,14 +38,16 @@
 
 
 .name{
-    color: #618264;
+    color: #79AC78;
+    text-decoration: none;
     margin: 0; 
-    text-decoration: underline;
+    text-shadow: 1px 2px 3px black;
 }
 .nav1{
+    color: #79AC78;
     text-decoration: underline;
     font-size: 19px; 
-    color: #79AC78;
+   
     /* color: rgb(128, 201, 167); */
 }
 .nav1:hover{
@@ -63,6 +65,7 @@ main{
     display: flex; 
     justify-content: flex-start;
 }
+
 .label h5{
     background-color: rgb(3, 88, 67); 
     color: rgb(204, 253, 230); 
@@ -105,8 +108,9 @@ main{
 }
 
 .title{
-    
+    font-size: 26px; 
     font-style: italic;
+    margin-bottom: 10px;
 
 }
 
